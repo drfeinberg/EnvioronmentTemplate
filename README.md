@@ -19,4 +19,4 @@ To run this from any folder, make sure you add the path of the script to your PA
 `export PATH=$PATH:~/bash_scripts`
 
 You'll also need to do:  
-`chmox +x template`
+`chmod +x template`
