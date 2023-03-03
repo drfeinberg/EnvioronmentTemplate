@@ -20,3 +20,6 @@ To run this from any folder, make sure you add the path of the script to your PA
 
 You'll also need to do:  
 `chmod +x template`
+
+
+To create the environment, type `template name`, where name is whatever you want to name your conda environment.
