@@ -1,4 +1,4 @@
-# EnvioronmentTemplate
+# EnvironmentTemplate
 
 This is a bash script that will create a new anaconda environment with:  
 - Python 3.10  
